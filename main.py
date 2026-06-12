@@ -24,7 +24,7 @@ async def main():
         return
 
     print("=" * 80)
-    print("  MULTI-AGENT AI TRAVEL PLANNER v2.0")
+    print("  AI TRAVEL PLANNER")
     print("  Real-time data from APIs + AI-powered analysis")
     print("=" * 80)
     print()
